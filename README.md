@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou desenvolvedor Front-end!
+## 👋 Hello, welcome to my Git Hub page
 <br><br>
 <div>
   <a href="https://github.com/cesar-daniel15">
@@ -9,7 +9,7 @@
   
 <br><br>
   
-## 💪 Tecnologias
+## 💪 Technologies
 <div style="display: inline_block"><br>
   
   <img align="center" alt="C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" >
@@ -26,7 +26,7 @@
 
 <br><br>
   
-## 👇 Contacto
+## 👇 Contact
 <div> 
   <a href = "mailto:cesardaniel.contacto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>

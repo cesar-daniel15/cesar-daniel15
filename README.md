@@ -1,18 +1,16 @@
-## 👋 Hello, welcome to my Git Hub page
-  Hi, I'm a Junior Web Developer with experience in HTML, CSS, PHP, and JavaScript, as well as the Laravel and Bootstrap frameworks. Passionate about web development, I'm always seeking new challenges. Open to opportunities for growth and collaboration. Feel free to reach out to discuss potential projects or job opportunities
+## 👋 Hello, welcome to my GitHub page
+  Hi, I'm a Junior Web Developer with experience in HTML, CSS, PHP, and JavaScript, as well as the Laravel and Bootstrap frameworks. Passionate about web development, I'm always seeking new challenges. Open to opportunities for growth and collaboration. Feel free to reach out to discuss potential projects or job opportunities.
 <br><br>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/cesar-daniel15">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cesar-daniel15&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=false"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cesar-daniel15&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
   </a>
   
   <a href="https://github.com/cesar-daniel15">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-daniel15&layout=compact&langs_count=16&theme=github_dark_dimmed"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-daniel15&layout=compact&langs_count=6&theme=github_dark_dimmed"/>
   </a>
 </div>
 
-
-  
 <br><br>
   
 ## 💪 Technologies
@@ -34,6 +32,5 @@
   
 ## 👇 Contact
 <div> 
-  <a href = "mailto:cesardaniel.contacto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:cesardaniel.contacto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-

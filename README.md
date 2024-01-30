@@ -11,7 +11,7 @@
   </a>
 </div>
 
-<br><br>
+<br
   
 ## 💪 Technologies
 <div style="display: inline_block"><br>

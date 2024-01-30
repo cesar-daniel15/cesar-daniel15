@@ -1,7 +1,7 @@
 ## 👋 Hello, welcome to my Git Hub page
 <br>
   Hi 👋, I'm a Junior Web Developer with experience in HTML, CSS, PHP, and JavaScript, as well as the Laravel and Bootstrap frameworks. Passionate about web development, I'm always seeking new challenges. Open to opportunities for growth and collaboration. Feel free to reach out to discuss potential projects or job opportunities
-<br>
+<br><br>
 <div>
   <a href="https://github.com/cesar-daniel15">
   <img height="150em"  src="https://github-readme-stats.vercel.app/api?username=cesar-daniel15&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=false"/>  

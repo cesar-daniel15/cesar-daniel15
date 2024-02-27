@@ -1,5 +1,6 @@
 ## 👋 Hello, welcome to my GitHub page
-  Hi, I'm a Junior Web Developer with experience in HTML, CSS, PHP, and JavaScript, as well as the Laravel and Bootstrap frameworks. Passionate about web development, I'm always seeking new challenges. Open to opportunities for growth and collaboration. Feel free to reach out to discuss potential projects or job opportunities.
+  Hi, I'm a junior web developer. I have experience in HTML, CSS, PHP JavaScript, React, Sass and also the Laravel and Bootstrap frameworks. I entered the area about 5 years ago, in all areas I liked the web the most.
+  The technology area is increasingly evolving, so I am always looking for new challenges. Open to opportunities for growth and collaboration. Please feel free to get in touch to discuss potential projects or job opportunities.
 <br><br>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/cesar-daniel15">
@@ -23,8 +24,10 @@
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" >
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="MYSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" >
+  <img align="center" alt="Laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" >
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+  <img align="center" alt="Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
+  <img align="center" alt="Figma" height="30" width="40" src=" https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
 
 </div>
 

@@ -41,4 +41,3 @@
 
 <br><br>
 
-![snake animation](https://github.com//cesar-daniel15//cesar-daniel15/blob/output/github-contribution-grid-snake2.svg)

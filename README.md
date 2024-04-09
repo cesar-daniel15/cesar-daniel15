@@ -39,4 +39,6 @@
   <a href="https://www.linkedin.com/in/cesar-daniel15/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
+<br><br>
+
 ![snake gif](https://github.com/cesar-daniel15/cesar-daniel15/blob/output/github-contribution-grid-snake.gif)

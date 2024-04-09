@@ -41,4 +41,4 @@
 
 <br><br>
 
-![Snake animation](https://github.com/cesar-daniel15/cesar-daniel15/blob/output/github-contribution-grid-snake.svg)
+![Snake gif dark mode](https://github.com/cesar-daniel15/cesar-daniel15/blob/output/github-contribution-grid-snake-dark.gif)

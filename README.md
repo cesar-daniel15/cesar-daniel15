@@ -1,6 +1,6 @@
 ## 👋 Hello, welcome to my GitHub 
   Hello, I'm César from Portugal, and I'm a junior web developer. The area of programming that captivates me the most is web development. I have developed projects using technologies such as HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, SQL, and React.
-  <br>
+  <br><br>
   The technology sector is constantly evolving, so I am always seeking new challenges. I am open to opportunities for growth and collaboration. Please feel free to get in touch to discuss potential projects or job opportunities.
 <br>
 <div style="display: flex; justify-content: space-between;">

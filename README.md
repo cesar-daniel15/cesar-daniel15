@@ -1,8 +1,8 @@
 ## 👋 Hello, welcome to my GitHub 
-  Hello, I'm César from Portugal, and I'm a junior web developer. The area of programming that captivates me the most is web development. I have developed projects using technologies such as HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, SQL, and React.  
+  Hello, I'm César from Portugal, and I'm a junior web developer. The area of programming that captivates me the most is web development. I have developed projects using technologies such as HTML, CSS, JavaScript, Bootstrap, PHP, Laravel, SQL, and React.
+  <br>
   The technology sector is constantly evolving, so I am always seeking new challenges. I am open to opportunities for growth and collaboration. Please feel free to get in touch to discuss potential projects or job opportunities.
-
-<br><br>
+<br>
 <div style="display: flex; justify-content: space-between;">
   <a href="https://github.com/cesar-daniel15">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cesar-daniel15&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>

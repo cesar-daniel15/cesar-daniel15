@@ -7,7 +7,7 @@
 - 🔍 I am open to opportunities for growth and collaboration.
 - 📩 Please feel free to get in touch to discuss potential projects or job opportunities. 
 
-
+<br>
 
 ## 💪 Technologies
 <div style="display: inline_block"><br>
@@ -32,7 +32,7 @@
 
 </div>
 
-
+<br>
   
 ## 👇 Contact
 <div> 

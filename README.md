@@ -2,7 +2,7 @@
 
 - 😁 Hello, I'm César from Portugal, and I'm a junior web developer.
 - 🌐 The area of programming that captivates me the most is web development.
-- 💻 I have developed projects using technologies such as:<br>PHP, Laravel, React and TailwindCSS.
+- 💻 I have developed projects using technologies such as: PHP, Laravel, React and TailwindCSS.
 - 🚀 The technology sector is constantly evolving, so I am always seeking new challenges.
 - 🔍 I am open to opportunities for growth and collaboration.
 - 📩 Please feel free to get in touch to discuss potential projects or job opportunities. 

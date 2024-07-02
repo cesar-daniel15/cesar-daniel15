@@ -9,17 +9,6 @@
 
 
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <a href="https://github.com/cesar-daniel15">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cesar-daniel15&show_icons=true&theme=github_dark_dimmed&include_all_commits=true&count_private=true"/>
-  </a>
-  
-  <a href="https://github.com/cesar-daniel15">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesar-daniel15&layout=compact&langs_count=6&theme=github_dark_dimmed"/>
-  </a>
-</div>
-
-
 
 ## 💪 Technologies
 <div style="display: inline_block"><br>

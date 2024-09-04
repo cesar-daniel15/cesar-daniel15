@@ -1,6 +1,6 @@
 ## 👋 Hello, welcome to my GitHub 
 
-- 😁 Hello, I'm César from Portugal, and I'm a junior web developer.
+- 😁 Hello, I'm César from Portugal, and I'm a junior developer.
 - 🌐 The area of programming that captivates me the most is web development.
 - 💻 I have developed projects using technologies such as: PHP, Laravel, React and TailwindCSS.
 - 🚀 The technology sector is constantly evolving, so I am always seeking new challenges.

@@ -1,8 +1,6 @@
 ## 👋 Hello, welcome to my GitHub 
 
 - 😁 Hello, I'm César from Portugal, and I'm a junior developer.
-- 🌐 The area of programming that captivates me the most is web development.
-- 💻 I have developed projects using technologies such as: PHP, Laravel, React and TailwindCSS.
 - 🚀 The technology sector is constantly evolving, so I am always seeking new challenges.
 - 🔍 I am open to opportunities for growth and collaboration.
 - 📩 Please feel free to get in touch to discuss potential projects or job opportunities. 
@@ -41,9 +39,6 @@
   </a>
   <a href="https://www.linkedin.com/in/cesar-daniel15/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://discord.com/users/543916819292094506">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
   </a>
 </div>
 

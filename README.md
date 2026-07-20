@@ -1,13 +1,14 @@
-## 👋 Hello, welcome to my GitHub 
+## 👋 Olá, bem-vindo ao meu GitHub 
 
-- 😁 Hello, I'm César from Portugal, and I'm a junior developer.
-- 🚀 The technology sector is constantly evolving, so I am always seeking new challenges.
-- 🔍 I am open to opportunities for growth and collaboration.
-- 📩 Please feel free to get in touch to discuss potential projects or job opportunities. 
+- 👋 Sou um desenvolvedor web, com experiência em empresas reais.
+- 💻 Trabalho principalmente com PHP, Laravel, Java, Spring Boot, JavaScript, TypeScript, AngularJS, Bootstrap, TailwindCSS, SQL e Git.
+- 🚀 Gosto de construir e melhorar aplicações web usadas por utilizadores reais, estando sempre à procura de novos desafios técnicos.
+- 🔍 Estou aberto a oportunidades de crescimento, colaboração e desenvolvimento de projectos interessantes.
+- 📩 Fica à vontade para entrar em contacto para falar sobre possíveis projectos ou oportunidades profissionais.
 
 <br>
 
-## 💪 Technologies
+## 💪 Tecnologias
 <div style="display: inline_block"><br>
   
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -19,26 +20,24 @@
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
   ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
   ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
   ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
   ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 
 </div>
 
 <br>
   
-## 👇 Contact
+## 👇 Contactos
 <div> 
   <a href="mailto:cesardaniel.contacto@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
+  
   <a href="https://www.linkedin.com/in/cesar-daniel15/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>

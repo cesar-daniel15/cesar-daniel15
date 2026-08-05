@@ -1,6 +1,6 @@
-## 👋 Olá, bem-vindo ao meu GitHub 
+## 👋Bem-vindo ao meu GitHub 
 
-- 👋 Sou um desenvolvedor web, com experiência em empresas reais.
+- 👋 Desenvolvedor web com experiência em empresas reais.
 - 💻 Trabalho principalmente com PHP, Laravel, Java, Spring Boot, JavaScript, TypeScript, AngularJS, Bootstrap, TailwindCSS, SQL e Git.
 - 🚀 Gosto de construir e melhorar aplicações web usadas por utilizadores reais, estando sempre à procura de novos desafios técnicos.
 - 🔍 Estou aberto a oportunidades de crescimento, colaboração e desenvolvimento de projectos interessantes.
